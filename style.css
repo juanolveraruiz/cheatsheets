@@ -19,6 +19,10 @@ table {
     justify-content: center;
 }
 
+th, td {
+    padding: 10px;
+}
+
 .code {
     font-family: monospace;
 }
