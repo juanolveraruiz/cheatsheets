@@ -35,3 +35,8 @@ th, td {
 .table-content {
     background-color: #FFD1E3;
 }
+
+.code-tag {
+    display: inline;
+    color: aquamarine;
+}
