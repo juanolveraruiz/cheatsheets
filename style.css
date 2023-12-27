@@ -23,6 +23,10 @@ th, td {
     padding: 10px;
 }
 
+td {
+    color: #392467;
+}
+
 .code {
     font-family: monospace;
 }
@@ -38,5 +42,11 @@ th, td {
 
 .code-tag {
     display: inline;
-    color: aquamarine;
+    background-color: #392467;
+    color: aliceblue;
+}
+
+mark {
+    background-color: #176B87;
+    color: aliceblue;
 }
