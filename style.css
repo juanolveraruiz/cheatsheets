@@ -50,3 +50,19 @@ mark {
     background-color: #176B87;
     color: aliceblue;
 }
+
+.social-links a {
+    display: inline-block;
+    margin: 0 10px;
+    color: #333;
+    font-size: 24px;
+    transition: color 0.3s ease-in-out;
+}
+
+.social-links a:hover {
+    color: #0077b5;
+}
+
+.social-links a:focus {
+    box-shadow: 0 0 0 3px #8659e9;
+}
