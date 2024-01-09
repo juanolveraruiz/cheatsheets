@@ -51,6 +51,14 @@ mark {
     color: aliceblue;
 }
 
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+}
+
 .social-links a {
     display: inline-block;
     margin: 0 10px;
