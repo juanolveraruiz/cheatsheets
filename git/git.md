@@ -46,4 +46,12 @@ Aquí esto es simple, es más como una pequeña extención del `git log` ya que 
 
     git checkout f5a66d78704f3a087d6122a46ec48898afabe653d
 
-## Branches (Ramas)
+## Trabajo remoto
+
+### GitHub
+
+Una de las mejores maneras que hay para trabajar remoto y contribuir con el código de los demás es GitHub. Sé que hay varias opciones que son como lo mismo o similar a GitHub como BitBucket, GitLab y demás, pero GitHub es la más popular así que en GitHub encontramos la mayor cantidad de repositorios. Incluso grandes empresas como Microsoft, Meta y Apple lo usan.
+
+#### ¿Cómo subo un repositorio a GitHub?
+
+Para este punto debemos de suponer que tu ya tienes un perfil o cuenta de GitHub. En tu perfil debes encontrarte un apartado de "Repositories", al entrar debe haber un botón para crear uno nuevo que diga <kbd>New</kbd>. Al presionarlo te pedira que le pongas un nombre, le añadas una descripción (opcional), selecciones si es un repositorio privado o público y también te dará la opción de iniciar ese repositorio con archivos `README.md`, un `.gitignore` y escoger una licencia. Luego tenemos dos opciones, podemos crear un nuevo repositorio local y conectarlo con el remoto que acabamos de hacer en GitHub o mandar a GitHub uno que ya teníamos en nuestra máquina.
